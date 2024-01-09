@@ -1,5 +1,3 @@
-require 'drb/drb'
-
 module LukaNet
     class MultiHost
         def initialize(opt={})
